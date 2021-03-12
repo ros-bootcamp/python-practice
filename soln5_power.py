@@ -5,7 +5,7 @@ def pow():
     for i in range(y):
         poo = x*poo
     print(f'{x}^{y}= {poo}')
-
+    return None
 
 #Start of the main function block
 if __name__ == '__main__':
